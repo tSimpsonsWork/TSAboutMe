@@ -1,50 +1,41 @@
-
-*{
-    font-family: 'Times New Roman', Times, serif;
-    
+* {
+  font-family: "Times New Roman", Times, serif;
 }
-body, html{
-
-    margin: auto 0;
-    background: url(backpic.webp) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+body,
+html {
+  margin: auto 0;
+  background: url(images/backpic.webp) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-
 
 #div1 {
-    
-    cursor:pointer;
-    
+  cursor: pointer;
 }
 
-
-
-
-h1{
-    text-align: center;
-    color: gold;
+h1 {
+  text-align: center;
+  color: gold;
 }
 
-h2{
-    color: gold;
+h2 {
+  color: gold;
 }
 
-p{
-    font-style: italic;
-    font-size: 20px;
-    color:gold;
+p {
+  font-style: italic;
+  font-size: 20px;
+  color: gold;
 }
 
-h3{
-    font-size: 2em;
-    color: gold;
+h3 {
+  font-size: 2em;
+  color: gold;
 }
 
-h4{
-    font-size:2em;
-    color: gold;
+h4 {
+  font-size: 2em;
+  color: gold;
 }
-
